@@ -23,4 +23,15 @@ print("the current directory before",os.getcwd())
 
 #for rename the directory
 
-os.rename('ds','deep_main')
+#os.rename('ds','deep_main')
+
+#for removing the directory
+
+#os.rmdir('parentdir')
+
+#os.removedirs('deep_main')
+
+w=os.walk(".")
+
+for i in w:
+    print(i)
