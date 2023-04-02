@@ -1,0 +1,2 @@
+link for the project
+https://github.com/deepakshimpi001/streamlit_fraud_app/blob/main/Fraud%20Detection%20Project-13-07-2022.ipynb
